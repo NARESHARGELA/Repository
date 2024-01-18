@@ -1,2 +1,3 @@
 # Repository
-author-Naresh
+This is my first github Repository
+Author-Naresh
